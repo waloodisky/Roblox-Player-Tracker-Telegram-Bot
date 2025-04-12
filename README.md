@@ -1,4 +1,4 @@
-## A telegram bot that tracks if a player is playing roblox.
+## A telegram bot that tracks if a player is playing roblox
 
 ### Instalation:
 
